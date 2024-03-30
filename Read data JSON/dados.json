@@ -1,0 +1,6403 @@
+{
+  "det": [
+    {
+      "-nItem": "1",
+      "prod": {
+        "cProd": "110201000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha Abertura Int DC, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVER",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "15.0000",
+        "vUnCom": "112.86733333",
+        "vProd": "1693.01",
+        "uTrib": "UNI",
+        "qTrib": "15.0000",
+        "vUnTrib": "112.86733333",
+        "vFrete": "27.52",
+        "vSeg": "3.32",
+        "vOutro": "201.67",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "1",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "2415.34",
+            "pICMS": "17.00",
+            "vICMS": "410.61"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "1693.01",
+            "pIPI": "6.50",
+            "vIPI": "110.05"
+          }
+        },
+        "II": {
+          "vBC": "1693.01",
+          "vDespAdu": "2.74",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "1693.01",
+            "pPIS": "2.10",
+            "vPIS": "35.55"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "1693.01",
+            "pCOFINS": "9.65",
+            "vCOFINS": "163.38"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha Abertura Int DC, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "2",
+      "prod": {
+        "cProd": "110205280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha Abertura Int DC, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CO",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "6.0000",
+        "vUnCom": "219.52666666",
+        "vProd": "1317.16",
+        "uTrib": "UNI",
+        "qTrib": "6.0000",
+        "vUnTrib": "219.52666666",
+        "vFrete": "11.15",
+        "vSeg": "2.61",
+        "vOutro": "156.92",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "2",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "1879.16",
+            "pICMS": "17.00",
+            "vICMS": "319.46"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "1317.16",
+            "pIPI": "6.50",
+            "vIPI": "85.62"
+          }
+        },
+        "II": {
+          "vBC": "1317.16",
+          "vDespAdu": "2.15",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "1317.16",
+            "pPIS": "2.10",
+            "vPIS": "27.66"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "1317.16",
+            "pCOFINS": "9.65",
+            "vCOFINS": "127.11"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha Abertura Int DC, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "3",
+      "prod": {
+        "cProd": "110215280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha Porta Abertura Int DC, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "4.0000",
+        "vUnCom": "238.4825",
+        "vProd": "953.93",
+        "uTrib": "UNI",
+        "qTrib": "4.0000",
+        "vUnTrib": "238.4825",
+        "vFrete": "7.71",
+        "vSeg": "1.89",
+        "vOutro": "113.64",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "3",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "1360.94",
+            "pICMS": "17.00",
+            "vICMS": "231.36"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "953.93",
+            "pIPI": "6.50",
+            "vIPI": "62.01"
+          }
+        },
+        "II": {
+          "vBC": "953.93",
+          "vDespAdu": "1.56",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "953.93",
+            "pPIS": "2.10",
+            "vPIS": "20.03"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "953.93",
+            "pCOFINS": "9.65",
+            "vCOFINS": "92.05"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha Porta Abertura Int DC, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "4",
+      "prod": {
+        "cProd": "110221000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha Abertura Ext DC, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVER",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "5.0000",
+        "vUnCom": "111.522",
+        "vProd": "557.61",
+        "uTrib": "UNI",
+        "qTrib": "5.0000",
+        "vUnTrib": "111.522",
+        "vFrete": "8.94",
+        "vSeg": "1.10",
+        "vOutro": "66.42",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "4",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "795.51",
+            "pICMS": "17.00",
+            "vICMS": "135.24"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "557.61",
+            "pIPI": "6.50",
+            "vIPI": "36.24"
+          }
+        },
+        "II": {
+          "vBC": "557.61",
+          "vDespAdu": "0.90",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "557.61",
+            "pPIS": "2.10",
+            "vPIS": "11.71"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "557.61",
+            "pCOFINS": "9.65",
+            "vCOFINS": "53.81"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha Abertura Ext DC, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "5",
+      "prod": {
+        "cProd": "110235280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha Abertura Int DC 66, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "7.0000",
+        "vUnCom": "184.19142857",
+        "vProd": "1289.34",
+        "uTrib": "UNI",
+        "qTrib": "7.0000",
+        "vUnTrib": "184.19142857",
+        "vFrete": "11.21",
+        "vSeg": "2.55",
+        "vOutro": "153.60",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "5",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "1839.46",
+            "pICMS": "17.00",
+            "vICMS": "312.71"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "1289.34",
+            "pIPI": "6.50",
+            "vIPI": "83.81"
+          }
+        },
+        "II": {
+          "vBC": "1289.34",
+          "vDespAdu": "2.10",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "1289.34",
+            "pPIS": "2.10",
+            "vPIS": "27.08"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "1289.34",
+            "pCOFINS": "9.65",
+            "vCOFINS": "124.42"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha Abertura Int DC 66, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "6",
+      "prod": {
+        "cProd": "110245280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha Porta Abertura Ext DC, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "2.0000",
+        "vUnCom": "243.46",
+        "vProd": "486.92",
+        "uTrib": "UNI",
+        "qTrib": "2.0000",
+        "vUnTrib": "243.46",
+        "vFrete": "3.91",
+        "vSeg": "0.96",
+        "vOutro": "58.01",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "6",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "694.67",
+            "pICMS": "17.00",
+            "vICMS": "118.09"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "486.92",
+            "pIPI": "6.50",
+            "vIPI": "31.65"
+          }
+        },
+        "II": {
+          "vBC": "486.92",
+          "vDespAdu": "0.79",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "486.92",
+            "pPIS": "2.10",
+            "vPIS": "10.23"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "486.92",
+            "pCOFINS": "9.65",
+            "vCOFINS": "46.99"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha Porta Abertura Ext DC, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "7",
+      "prod": {
+        "cProd": "110251000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha Abertura Ext DC 66, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANS",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "10.0000",
+        "vUnCom": "96.895000000",
+        "vProd": "968.95",
+        "uTrib": "UNI",
+        "qTrib": "10.0000",
+        "vUnTrib": "96.895000000",
+        "vFrete": "14.53",
+        "vSeg": "1.91",
+        "vOutro": "115.42",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "7",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "1382.35",
+            "pICMS": "17.00",
+            "vICMS": "235.00"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "968.95",
+            "pIPI": "6.50",
+            "vIPI": "62.98"
+          }
+        },
+        "II": {
+          "vBC": "968.95",
+          "vDespAdu": "1.57",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "968.95",
+            "pPIS": "2.10",
+            "vPIS": "20.35"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "968.95",
+            "pCOFINS": "9.65",
+            "vCOFINS": "93.50"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha Abertura Ext DC 66, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRAS"
+    },
+    {
+      "-nItem": "8",
+      "prod": {
+        "cProd": "110255280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha Abertura Ext DC 66, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "3.0000",
+        "vUnCom": "173.92333333",
+        "vProd": "521.77",
+        "uTrib": "UNI",
+        "qTrib": "3.0000",
+        "vUnTrib": "173.92333333",
+        "vFrete": "4.43",
+        "vSeg": "1.03",
+        "vOutro": "62.16",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "8",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "744.40",
+            "pICMS": "17.00",
+            "vICMS": "126.55"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "521.77",
+            "pIPI": "6.50",
+            "vIPI": "33.92"
+          }
+        },
+        "II": {
+          "vBC": "521.77",
+          "vDespAdu": "0.85",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "521.77",
+            "pPIS": "2.10",
+            "vPIS": "10.96"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "521.77",
+            "pCOFINS": "9.65",
+            "vCOFINS": "50.35"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha Abertura Ext DC 66, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS,  ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "9",
+      "prod": {
+        "cProd": "110301000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha Advance, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTR",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "120.0000",
+        "vUnCom": "86.8665",
+        "vProd": "10423.98",
+        "uTrib": "UNI",
+        "qTrib": "120.0000",
+        "vUnTrib": "86.8665",
+        "vFrete": "152.20",
+        "vSeg": "20.50",
+        "vOutro": "1241.70",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "9",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "14871.37",
+            "pICMS": "17.00",
+            "vICMS": "2528.13"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "10423.98",
+            "pIPI": "6.50",
+            "vIPI": "677.56"
+          }
+        },
+        "II": {
+          "vBC": "10423.98",
+          "vDespAdu": "16.89",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "10423.98",
+            "pPIS": "2.10",
+            "vPIS": "218.90"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "10423.98",
+            "pCOFINS": "9.65",
+            "vCOFINS": "1005.91"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha Advance, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "10",
+      "prod": {
+        "cProd": "110305280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha Advance, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRAN",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "18.0000",
+        "vUnCom": "148.32777777",
+        "vProd": "2669.90",
+        "uTrib": "UNI",
+        "qTrib": "18.0000",
+        "vUnTrib": "148.32777777",
+        "vFrete": "23.70",
+        "vSeg": "5.28",
+        "vOutro": "318.07",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "10",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "3809.05",
+            "pICMS": "17.00",
+            "vICMS": "647.54"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "2669.90",
+            "pIPI": "6.50",
+            "vIPI": "173.54"
+          }
+        },
+        "II": {
+          "vBC": "2669.90",
+          "vDespAdu": "4.35",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "2669.90",
+            "pPIS": "2.10",
+            "vPIS": "56.07"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "2669.90",
+            "pCOFINS": "9.65",
+            "vCOFINS": "257.65"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha Advance, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "11",
+      "prod": {
+        "cProd": "110311000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha Porta DZ Prime, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERS",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "100.0000",
+        "vUnCom": "120.34629999",
+        "vProd": "12034.63",
+        "uTrib": "UNI",
+        "qTrib": "100.0000",
+        "vUnTrib": "120.34629999",
+        "vFrete": "171.81",
+        "vSeg": "23.68",
+        "vOutro": "1433.58",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "11",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "17169.23",
+            "pICMS": "17.00",
+            "vICMS": "2918.77"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "12034.63",
+            "pIPI": "6.50",
+            "vIPI": "782.25"
+          }
+        },
+        "II": {
+          "vBC": "12034.63",
+          "vDespAdu": "19.51",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "12034.63",
+            "pPIS": "2.10",
+            "vPIS": "252.73"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "12034.63",
+            "pCOFINS": "9.65",
+            "vCOFINS": "1161.34"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha Porta DZ Prime, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "12",
+      "prod": {
+        "cProd": "110315280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha Porta DZ Prime, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO COR",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "48.0000",
+        "vUnCom": "207.84166666",
+        "vProd": "9976.40",
+        "uTrib": "UNI",
+        "qTrib": "48.0000",
+        "vUnTrib": "207.84166666",
+        "vFrete": "84.79",
+        "vSeg": "19.75",
+        "vOutro": "1188.49",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "12",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "14232.96",
+            "pICMS": "17.00",
+            "vICMS": "2419.60"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "9976.40",
+            "pIPI": "6.50",
+            "vIPI": "648.47"
+          }
+        },
+        "II": {
+          "vBC": "9976.40",
+          "vDespAdu": "16.27",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "9976.40",
+            "pPIS": "2.10",
+            "vPIS": "209.50"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "9976.40",
+            "pCOFINS": "9.65",
+            "vCOFINS": "962.72"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha Porta DZ Prime, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "13",
+      "prod": {
+        "cProd": "110325280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha Jumbo, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSV",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "11.0000",
+        "vUnCom": "127.12909090",
+        "vProd": "1398.42",
+        "uTrib": "UNI",
+        "qTrib": "11.0000",
+        "vUnTrib": "127.12909090",
+        "vFrete": "23.70",
+        "vSeg": "2.74",
+        "vOutro": "166.58",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "13",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "1995.06",
+            "pICMS": "17.00",
+            "vICMS": "339.16"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "1398.42",
+            "pIPI": "6.50",
+            "vIPI": "90.90"
+          }
+        },
+        "II": {
+          "vBC": "1398.42",
+          "vDespAdu": "2.26",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "1398.42",
+            "pPIS": "2.10",
+            "vPIS": "29.37"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "1398.42",
+            "pCOFINS": "9.65",
+            "vCOFINS": "134.95"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha Jumbo, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRAS"
+    },
+    {
+      "-nItem": "14",
+      "prod": {
+        "cProd": "110331000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha Janela DZ, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL EN",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "25.0000",
+        "vUnCom": "105.59",
+        "vProd": "2639.75",
+        "uTrib": "UNI",
+        "qTrib": "25.0000",
+        "vUnTrib": "105.59",
+        "vFrete": "37.58",
+        "vSeg": "5.19",
+        "vOutro": "314.45",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "14",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "3766.00",
+            "pICMS": "17.00",
+            "vICMS": "640.22"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "2639.75",
+            "pIPI": "6.50",
+            "vIPI": "171.58"
+          }
+        },
+        "II": {
+          "vBC": "2639.75",
+          "vDespAdu": "4.28",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "2639.75",
+            "pPIS": "2.10",
+            "vPIS": "55.43"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "2639.75",
+            "pCOFINS": "9.65",
+            "vCOFINS": "254.74"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha Janela DZ, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "15",
+      "prod": {
+        "cProd": "110335280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha Janela DZ, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TR",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "11.0000",
+        "vUnCom": "203.77909090",
+        "vProd": "2241.57",
+        "uTrib": "UNI",
+        "qTrib": "11.0000",
+        "vUnTrib": "203.77909090",
+        "vFrete": "17.62",
+        "vSeg": "4.44",
+        "vOutro": "267.04",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "15",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "3197.96",
+            "pICMS": "17.00",
+            "vICMS": "543.65"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "2241.57",
+            "pIPI": "6.50",
+            "vIPI": "145.70"
+          }
+        },
+        "II": {
+          "vBC": "2241.57",
+          "vDespAdu": "3.66",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "2241.57",
+            "pPIS": "2.10",
+            "vPIS": "47.07"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "2241.57",
+            "pCOFINS": "9.65",
+            "vCOFINS": "216.31"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha Janela DZ, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS,  ARMAZNADO EM TIRA"
+    },
+    {
+      "-nItem": "16",
+      "prod": {
+        "cProd": "111221000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Travessa 36mm DZ, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL E",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "5.0000",
+        "vUnCom": "70.62",
+        "vProd": "353.10",
+        "uTrib": "UNI",
+        "qTrib": "5.0000",
+        "vUnTrib": "70.62",
+        "vFrete": "5.31",
+        "vSeg": "0.69",
+        "vOutro": "42.06",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "16",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "503.75",
+            "pICMS": "17.00",
+            "vICMS": "85.64"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "353.10",
+            "pIPI": "6.50",
+            "vIPI": "22.95"
+          }
+        },
+        "II": {
+          "vBC": "353.10",
+          "vDespAdu": "0.57",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "353.10",
+            "pPIS": "2.10",
+            "vPIS": "7.42"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "353.10",
+            "pCOFINS": "9.65",
+            "vCOFINS": "34.07"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Travessa 36mm DZ, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "17",
+      "prod": {
+        "cProd": "111235280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Batente DC, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVE",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "2.0000",
+        "vUnCom": "150.305",
+        "vProd": "300.61",
+        "uTrib": "UNI",
+        "qTrib": "2.0000",
+        "vUnTrib": "150.305",
+        "vFrete": "2.59",
+        "vSeg": "0.59",
+        "vOutro": "35.81",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "17",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "428.87",
+            "pICMS": "17.00",
+            "vICMS": "72.91"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "300.61",
+            "pIPI": "6.50",
+            "vIPI": "19.54"
+          }
+        },
+        "II": {
+          "vBC": "300.61",
+          "vDespAdu": "0.49",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "300.61",
+            "pPIS": "2.10",
+            "vPIS": "6.31"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "300.61",
+            "pCOFINS": "9.65",
+            "vCOFINS": "29.01"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Batente DC, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS,  ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "18",
+      "prod": {
+        "cProd": "111251000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Poste DC, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "5.0000",
+        "vUnCom": "124.282",
+        "vProd": "621.41",
+        "uTrib": "UNI",
+        "qTrib": "5.0000",
+        "vUnTrib": "124.282",
+        "vFrete": "8.54",
+        "vSeg": "1.22",
+        "vOutro": "74.03",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "18",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "886.54",
+            "pICMS": "17.00",
+            "vICMS": "150.71"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "621.41",
+            "pIPI": "6.50",
+            "vIPI": "40.39"
+          }
+        },
+        "II": {
+          "vBC": "621.41",
+          "vDespAdu": "1.01",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "621.41",
+            "pPIS": "2.10",
+            "vPIS": "13.05"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "621.41",
+            "pCOFINS": "9.65",
+            "vCOFINS": "59.97"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Poste DC, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "19",
+      "prod": {
+        "cProd": "111255280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Poste DC, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERS",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "2.0000",
+        "vUnCom": "216.035",
+        "vProd": "432.07",
+        "uTrib": "UNI",
+        "qTrib": "2.0000",
+        "vUnTrib": "216.035",
+        "vFrete": "3.43",
+        "vSeg": "0.86",
+        "vOutro": "51.46",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "19",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "616.40",
+            "pICMS": "17.00",
+            "vICMS": "104.79"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "432.07",
+            "pIPI": "6.50",
+            "vIPI": "28.08"
+          }
+        },
+        "II": {
+          "vBC": "432.07",
+          "vDespAdu": "0.70",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "432.07",
+            "pPIS": "2.10",
+            "vPIS": "9.07"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "432.07",
+            "pCOFINS": "9.65",
+            "vCOFINS": "41.69"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Poste DC, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRAS"
+    },
+    {
+      "-nItem": "20",
+      "prod": {
+        "cProd": "112201000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Marco DC, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "10.0000",
+        "vUnCom": "108.49100000",
+        "vProd": "1084.91",
+        "uTrib": "UNI",
+        "qTrib": "10.0000",
+        "vUnTrib": "108.49100000",
+        "vFrete": "15.05",
+        "vSeg": "2.14",
+        "vOutro": "129.23",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "20",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "1547.78",
+            "pICMS": "17.00",
+            "vICMS": "263.12"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "1084.91",
+            "pIPI": "6.50",
+            "vIPI": "70.52"
+          }
+        },
+        "II": {
+          "vBC": "1084.91",
+          "vDespAdu": "1.76",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "1084.91",
+            "pPIS": "2.10",
+            "vPIS": "22.78"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "1084.91",
+            "pCOFINS": "9.65",
+            "vCOFINS": "104.69"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Marco DC, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRAS"
+    },
+    {
+      "-nItem": "21",
+      "prod": {
+        "cProd": "112205280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Marco DC, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERS",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "4.0000",
+        "vUnCom": "176.625",
+        "vProd": "706.50",
+        "uTrib": "UNI",
+        "qTrib": "4.0000",
+        "vUnTrib": "176.625",
+        "vFrete": "6.13",
+        "vSeg": "1.40",
+        "vOutro": "84.17",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "21",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "1007.94",
+            "pICMS": "17.00",
+            "vICMS": "171.35"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "706.50",
+            "pIPI": "6.50",
+            "vIPI": "45.92"
+          }
+        },
+        "II": {
+          "vBC": "706.50",
+          "vDespAdu": "1.15",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "706.50",
+            "pPIS": "2.10",
+            "vPIS": "14.84"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "706.50",
+            "pCOFINS": "9.65",
+            "vCOFINS": "68.18"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Marco DC, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "22",
+      "prod": {
+        "cProd": "112211000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Adaptador 58mm, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENT",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "30.0000",
+        "vUnCom": "73.113666666",
+        "vProd": "2193.41",
+        "uTrib": "UNI",
+        "qTrib": "30.0000",
+        "vUnTrib": "73.113666666",
+        "vFrete": "30.22",
+        "vSeg": "4.32",
+        "vOutro": "261.28",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "22",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "3129.23",
+            "pICMS": "17.00",
+            "vICMS": "531.97"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "2193.41",
+            "pIPI": "6.50",
+            "vIPI": "142.57"
+          }
+        },
+        "II": {
+          "vBC": "2193.41",
+          "vDespAdu": "3.56",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "2193.41",
+            "pPIS": "2.10",
+            "vPIS": "46.06"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "2193.41",
+            "pCOFINS": "9.65",
+            "vCOFINS": "211.66"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Adaptador 58mm, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "23",
+      "prod": {
+        "cProd": "112213280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Adaptador 58mm, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "14.0000",
+        "vUnCom": "93.595714285",
+        "vProd": "1310.34",
+        "uTrib": "UNI",
+        "qTrib": "14.0000",
+        "vUnTrib": "93.595714285",
+        "vFrete": "12.63",
+        "vSeg": "2.59",
+        "vOutro": "156.10",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "23",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "1869.41",
+            "pICMS": "17.00",
+            "vICMS": "317.80"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "1310.34",
+            "pIPI": "6.50",
+            "vIPI": "85.17"
+          }
+        },
+        "II": {
+          "vBC": "1310.34",
+          "vDespAdu": "2.13",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "1310.34",
+            "pPIS": "2.10",
+            "vPIS": "27.52"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "1310.34",
+            "pCOFINS": "9.65",
+            "vCOFINS": "126.45"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Adaptador 58mm, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRAS"
+    },
+    {
+      "-nItem": "24",
+      "prod": {
+        "cProd": "112231000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Marco DC 58x67, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENT",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "10.0000",
+        "vUnCom": "116.66400000",
+        "vProd": "1166.64",
+        "uTrib": "UNI",
+        "qTrib": "10.0000",
+        "vUnTrib": "116.66400000",
+        "vFrete": "13.34",
+        "vSeg": "2.30",
+        "vOutro": "138.98",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "24",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "1664.40",
+            "pICMS": "17.00",
+            "vICMS": "282.95"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "1166.64",
+            "pIPI": "6.50",
+            "vIPI": "75.83"
+          }
+        },
+        "II": {
+          "vBC": "1166.64",
+          "vDespAdu": "1.90",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "1166.64",
+            "pPIS": "2.10",
+            "vPIS": "24.50"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "1166.64",
+            "pCOFINS": "9.65",
+            "vCOFINS": "112.58"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Marco DC 58x67, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "25",
+      "prod": {
+        "cProd": "112235280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Marco DC 58x67, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRA",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "22.0000",
+        "vUnCom": "156.80818181",
+        "vProd": "3449.78",
+        "uTrib": "UNI",
+        "qTrib": "22.0000",
+        "vUnTrib": "156.80818181",
+        "vFrete": "30.85",
+        "vSeg": "6.82",
+        "vOutro": "410.97",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "25",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "4921.67",
+            "pICMS": "17.00",
+            "vICMS": "836.68"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "3449.78",
+            "pIPI": "6.50",
+            "vIPI": "224.24"
+          }
+        },
+        "II": {
+          "vBC": "3449.78",
+          "vDespAdu": "5.62",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "3449.78",
+            "pPIS": "2.10",
+            "vPIS": "72.45"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "3449.78",
+            "pCOFINS": "9.65",
+            "vCOFINS": "332.90"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Marco DC 58x67, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "26",
+      "prod": {
+        "cProd": "112421000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Marco Advance, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTR",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "60.0000",
+        "vUnCom": "80.374833333",
+        "vProd": "4822.49",
+        "uTrib": "UNI",
+        "qTrib": "60.0000",
+        "vUnTrib": "80.374833333",
+        "vFrete": "76.36",
+        "vSeg": "9.47",
+        "vOutro": "574.44",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "26",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "6879.99",
+            "pICMS": "17.00",
+            "vICMS": "1169.60"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "4822.49",
+            "pIPI": "6.50",
+            "vIPI": "313.46"
+          }
+        },
+        "II": {
+          "vBC": "4822.49",
+          "vDespAdu": "7.80",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "4822.49",
+            "pPIS": "2.10",
+            "vPIS": "101.27"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "4822.49",
+            "pCOFINS": "9.65",
+            "vCOFINS": "465.37"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Marco Advance, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "27",
+      "prod": {
+        "cProd": "112431000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Marco Advance 3 Trilhos, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSV",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "30.0000",
+        "vUnCom": "124.449",
+        "vProd": "3733.47",
+        "uTrib": "UNI",
+        "qTrib": "30.0000",
+        "vUnTrib": "124.449",
+        "vFrete": "60.69",
+        "vSeg": "7.33",
+        "vOutro": "444.72",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "27",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "5326.35",
+            "pICMS": "17.00",
+            "vICMS": "905.48"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "3733.47",
+            "pIPI": "6.50",
+            "vIPI": "242.68"
+          }
+        },
+        "II": {
+          "vBC": "3733.47",
+          "vDespAdu": "6.04",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "3733.47",
+            "pPIS": "2.10",
+            "vPIS": "78.40"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "3733.47",
+            "pCOFINS": "9.65",
+            "vCOFINS": "360.28"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Marco Advance 3 Trilhos, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "28",
+      "prod": {
+        "cProd": "112435283",
+        "cEAN": {},
+        "xProd": "Perfil PVC Marco Advance 3 Trilhos, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO ",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "9.0000",
+        "vUnCom": "252.46222222",
+        "vProd": "2272.16",
+        "uTrib": "UNI",
+        "qTrib": "9.0000",
+        "vUnTrib": "252.46222222",
+        "vFrete": "19.47",
+        "vSeg": "4.50",
+        "vOutro": "270.68",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "28",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "3241.60",
+            "pICMS": "17.00",
+            "vICMS": "551.07"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "2272.16",
+            "pIPI": "6.50",
+            "vIPI": "147.69"
+          }
+        },
+        "II": {
+          "vBC": "2272.16",
+          "vDespAdu": "3.70",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "2272.16",
+            "pPIS": "2.10",
+            "vPIS": "47.72"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "2272.16",
+            "pCOFINS": "9.65",
+            "vCOFINS": "219.26"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Marco Advance 3 Trilhos, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "29",
+      "prod": {
+        "cProd": "112501000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Marco 5800mm DZ, Cerrado Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSV",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "75.0000",
+        "vUnCom": "91.712133333",
+        "vProd": "6878.41",
+        "uTrib": "UNI",
+        "qTrib": "75.0000",
+        "vUnTrib": "91.712133333",
+        "vFrete": "117.50",
+        "vSeg": "13.50",
+        "vOutro": "819.34",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "29",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "9813.07",
+            "pICMS": "17.00",
+            "vICMS": "1668.22"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "6878.41",
+            "pIPI": "6.50",
+            "vIPI": "447.10"
+          }
+        },
+        "II": {
+          "vBC": "6878.41",
+          "vDespAdu": "11.12",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "6878.41",
+            "pPIS": "2.10",
+            "vPIS": "144.45"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "6878.41",
+            "pCOFINS": "9.65",
+            "vCOFINS": "663.77"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Marco 5800mm DZ, Cerrado Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "30",
+      "prod": {
+        "cProd": "112515283",
+        "cEAN": {},
+        "xProd": "Perfil PVC Marco Guia Acoplada Prime, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO D",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "15.0000",
+        "vUnCom": "136.12199999",
+        "vProd": "2041.83",
+        "uTrib": "UNI",
+        "qTrib": "15.0000",
+        "vUnTrib": "136.12199999",
+        "vFrete": "16.56",
+        "vSeg": "4.04",
+        "vOutro": "243.25",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "30",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "2913.01",
+            "pICMS": "17.00",
+            "vICMS": "495.21"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "2041.83",
+            "pIPI": "6.50",
+            "vIPI": "132.72"
+          }
+        },
+        "II": {
+          "vBC": "2041.83",
+          "vDespAdu": "3.33",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "2041.83",
+            "pPIS": "2.10",
+            "vPIS": "42.88"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "2041.83",
+            "pCOFINS": "9.65",
+            "vCOFINS": "197.04"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Marco Guia Acoplada Prime, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "31",
+      "prod": {
+        "cProd": "112601000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Marco Guia , Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE ",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "35.0000",
+        "vUnCom": "157.964",
+        "vProd": "5528.74",
+        "uTrib": "UNI",
+        "qTrib": "35.0000",
+        "vUnTrib": "157.964",
+        "vFrete": "87.78",
+        "vSeg": "10.86",
+        "vOutro": "658.57",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "31",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "7887.57",
+            "pICMS": "17.00",
+            "vICMS": "1340.89"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "5528.74",
+            "pIPI": "6.50",
+            "vIPI": "359.37"
+          }
+        },
+        "II": {
+          "vBC": "5528.74",
+          "vDespAdu": "8.95",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "5528.74",
+            "pPIS": "2.10",
+            "vPIS": "116.10"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "5528.74",
+            "pCOFINS": "9.65",
+            "vCOFINS": "533.52"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Marco Guia , Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "32",
+      "prod": {
+        "cProd": "112605283",
+        "cEAN": {},
+        "xProd": "Perfil PVC Marco Guia Triplo, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE ",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "25.0000",
+        "vUnCom": "272.3848",
+        "vProd": "6809.62",
+        "uTrib": "UNI",
+        "qTrib": "25.0000",
+        "vUnTrib": "272.3848",
+        "vFrete": "64.95",
+        "vSeg": "13.46",
+        "vOutro": "811.22",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "32",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "9715.02",
+            "pICMS": "17.00",
+            "vICMS": "1651.55"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "6809.62",
+            "pIPI": "6.50",
+            "vIPI": "442.63"
+          }
+        },
+        "II": {
+          "vBC": "6809.62",
+          "vDespAdu": "11.09",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "6809.62",
+            "pPIS": "2.10",
+            "vPIS": "143.00"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "6809.62",
+            "pCOFINS": "9.65",
+            "vCOFINS": "657.13"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Marco Guia Triplo, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, EM TIRAS"
+    },
+    {
+      "-nItem": "33",
+      "prod": {
+        "cProd": "112705283",
+        "cEAN": {},
+        "xProd": "Perfil PVC Marco de Correr Linha Jumbo, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "6.0000",
+        "vUnCom": "212.59666666",
+        "vProd": "1275.58",
+        "uTrib": "UNI",
+        "qTrib": "6.0000",
+        "vUnTrib": "212.59666666",
+        "vFrete": "11.55",
+        "vSeg": "2.52",
+        "vOutro": "151.96",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "33",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "1819.82",
+            "pICMS": "17.00",
+            "vICMS": "309.37"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "1275.58",
+            "pIPI": "6.50",
+            "vIPI": "82.91"
+          }
+        },
+        "II": {
+          "vBC": "1275.58",
+          "vDespAdu": "2.08",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "1275.58",
+            "pPIS": "2.10",
+            "vPIS": "26.79"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "1275.58",
+            "pCOFINS": "9.65",
+            "vCOFINS": "123.09"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Marco de Correr Linha Jumbo, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS,  ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "34",
+      "prod": {
+        "cProd": "112715283",
+        "cEAN": {},
+        "xProd": "Perfil PVC Guia Adicional Linha Jumbo, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO ",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "16.0000",
+        "vUnCom": "126.1",
+        "vProd": "2017.60",
+        "uTrib": "UNI",
+        "qTrib": "16.0000",
+        "vUnTrib": "126.1",
+        "vFrete": "18.01",
+        "vSeg": "3.99",
+        "vOutro": "240.36",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "34",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "2878.43",
+            "pICMS": "17.00",
+            "vICMS": "489.33"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "2017.60",
+            "pIPI": "6.50",
+            "vIPI": "131.14"
+          }
+        },
+        "II": {
+          "vBC": "2017.60",
+          "vDespAdu": "3.29",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "2017.60",
+            "pPIS": "2.10",
+            "vPIS": "42.37"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "2017.60",
+            "pCOFINS": "9.65",
+            "vCOFINS": "194.70"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Guia Adicional Linha Jumbo, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS,  ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "35",
+      "prod": {
+        "cProd": "113331000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Tapa de Folha Linha Advance, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TR",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "20.0000",
+        "vUnCom": "11.901",
+        "vProd": "238.02",
+        "uTrib": "UNI",
+        "qTrib": "20.0000",
+        "vUnTrib": "11.901",
+        "vFrete": "3.16",
+        "vSeg": "0.47",
+        "vOutro": "28.36",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "35",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "339.58",
+            "pICMS": "17.00",
+            "vICMS": "57.73"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "238.02",
+            "pIPI": "6.50",
+            "vIPI": "15.47"
+          }
+        },
+        "II": {
+          "vBC": "238.02",
+          "vDespAdu": "0.39",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "238.02",
+            "pPIS": "2.10",
+            "vPIS": "5.00"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "238.02",
+            "pCOFINS": "9.65",
+            "vCOFINS": "22.97"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Tapa de Folha Linha Advance, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "36",
+      "prod": {
+        "cProd": "113330280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Tapa de Folha Linha Advance, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "10.0000",
+        "vUnCom": "17.624000000",
+        "vProd": "176.24",
+        "uTrib": "UNI",
+        "qTrib": "10.0000",
+        "vUnTrib": "17.624000000",
+        "vFrete": "1.84",
+        "vSeg": "0.35",
+        "vOutro": "21.00",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "36",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "251.45",
+            "pICMS": "17.00",
+            "vICMS": "42.75"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "176.24",
+            "pIPI": "6.50",
+            "vIPI": "11.46"
+          }
+        },
+        "II": {
+          "vBC": "176.24",
+          "vDespAdu": "0.29",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "176.24",
+            "pPIS": "2.10",
+            "vPIS": "3.70"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "176.24",
+            "pCOFINS": "9.65",
+            "vCOFINS": "17.01"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Tapa de Folha Linha Advance, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "37",
+      "prod": {
+        "cProd": "113341000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Tapa Prime, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "90.0000",
+        "vUnCom": "17.334888888",
+        "vProd": "1560.14",
+        "uTrib": "UNI",
+        "qTrib": "90.0000",
+        "vUnTrib": "17.334888888",
+        "vFrete": "17.58",
+        "vSeg": "3.08",
+        "vOutro": "185.85",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "37",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "2225.78",
+            "pICMS": "17.00",
+            "vICMS": "378.38"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "1560.14",
+            "pIPI": "6.50",
+            "vIPI": "101.41"
+          }
+        },
+        "II": {
+          "vBC": "1560.14",
+          "vDespAdu": "2.54",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "1560.14",
+            "pPIS": "2.10",
+            "vPIS": "32.76"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "1560.14",
+            "pCOFINS": "9.65",
+            "vCOFINS": "150.55"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Tapa Prime, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTES COM 10 TIRAS"
+    },
+    {
+      "-nItem": "38",
+      "prod": {
+        "cProd": "113340280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Tapa Prime, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTR",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "20.0000",
+        "vUnCom": "22.2585",
+        "vProd": "445.17",
+        "uTrib": "UNI",
+        "qTrib": "20.0000",
+        "vUnTrib": "22.2585",
+        "vFrete": "4.43",
+        "vSeg": "0.88",
+        "vOutro": "53.03",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "38",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "635.11",
+            "pICMS": "17.00",
+            "vICMS": "107.97"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "445.17",
+            "pIPI": "6.50",
+            "vIPI": "28.94"
+          }
+        },
+        "II": {
+          "vBC": "445.17",
+          "vDespAdu": "0.72",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "445.17",
+            "pPIS": "2.10",
+            "vPIS": "9.35"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "445.17",
+            "pCOFINS": "9.65",
+            "vCOFINS": "42.96"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Tapa Prime, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTES COM 10 TIRAS"
+    },
+    {
+      "-nItem": "39",
+      "prod": {
+        "cProd": "113350280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Tapa de Folha Linha Jumbo, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE T",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "20.0000",
+        "vUnCom": "27.453500000",
+        "vProd": "549.07",
+        "uTrib": "UNI",
+        "qTrib": "20.0000",
+        "vUnTrib": "27.453500000",
+        "vFrete": "5.40",
+        "vSeg": "1.09",
+        "vOutro": "65.41",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "39",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "783.34",
+            "pICMS": "17.00",
+            "vICMS": "133.17"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "549.07",
+            "pIPI": "6.50",
+            "vIPI": "35.69"
+          }
+        },
+        "II": {
+          "vBC": "549.07",
+          "vDespAdu": "0.89",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "549.07",
+            "pPIS": "2.10",
+            "vPIS": "11.53"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "549.07",
+            "pCOFINS": "9.65",
+            "vCOFINS": "52.99"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Tapa de Folha Linha Jumbo, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTES COM 10 TIRAS"
+    },
+    {
+      "-nItem": "40",
+      "prod": {
+        "cProd": "113360280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Trilho Adicional Linha Jumbo, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORT",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "20.0000",
+        "vUnCom": "62.244000000",
+        "vProd": "1244.88",
+        "uTrib": "UNI",
+        "qTrib": "20.0000",
+        "vUnTrib": "62.244000000",
+        "vFrete": "11.63",
+        "vSeg": "2.46",
+        "vOutro": "148.30",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "40",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "1776.02",
+            "pICMS": "17.00",
+            "vICMS": "301.92"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "1244.88",
+            "pIPI": "6.50",
+            "vIPI": "80.92"
+          }
+        },
+        "II": {
+          "vBC": "1244.88",
+          "vDespAdu": "2.03",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "1244.88",
+            "pPIS": "2.10",
+            "vPIS": "26.14"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "1244.88",
+            "pCOFINS": "9.65",
+            "vCOFINS": "120.13"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Trilho Adicional Linha Jumbo, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTES COM 10 TIRAS"
+    },
+    {
+      "-nItem": "41",
+      "prod": {
+        "cProd": "113421000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Encontro de Folhas Linha Advance, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO COR",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "20.0000",
+        "vUnCom": "11.0475",
+        "vProd": "220.95",
+        "uTrib": "UNI",
+        "qTrib": "20.0000",
+        "vUnTrib": "11.0475",
+        "vFrete": "4.08",
+        "vSeg": "0.43",
+        "vOutro": "26.32",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "41",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "315.22",
+            "pICMS": "17.00",
+            "vICMS": "53.59"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "220.95",
+            "pIPI": "6.50",
+            "vIPI": "14.36"
+          }
+        },
+        "II": {
+          "vBC": "220.95",
+          "vDespAdu": "0.36",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "220.95",
+            "pPIS": "2.10",
+            "vPIS": "4.64"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "220.95",
+            "pCOFINS": "9.65",
+            "vCOFINS": "21.32"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Encontro de Folhas Linha Advance, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTES COM 10 TIRAS"
+    },
+    {
+      "-nItem": "42",
+      "prod": {
+        "cProd": "113425280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Encontro de Folhas Linha Advance, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIM",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "10.0000",
+        "vUnCom": "23.351",
+        "vProd": "233.51",
+        "uTrib": "UNI",
+        "qTrib": "10.0000",
+        "vUnTrib": "23.351",
+        "vFrete": "2.15",
+        "vSeg": "0.46",
+        "vOutro": "27.81",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "42",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "333.13",
+            "pICMS": "17.00",
+            "vICMS": "56.63"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "233.51",
+            "pIPI": "6.50",
+            "vIPI": "15.18"
+          }
+        },
+        "II": {
+          "vBC": "233.51",
+          "vDespAdu": "0.38",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "233.51",
+            "pPIS": "2.10",
+            "vPIS": "4.90"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "233.51",
+            "pCOFINS": "9.65",
+            "vCOFINS": "22.53"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Encontro de Folhas Linha Advance, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS,  ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "43",
+      "prod": {
+        "cProd": "113431000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Encontro Folha Prime, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERS",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "90.0000",
+        "vUnCom": "19.680111111",
+        "vProd": "1771.21",
+        "uTrib": "UNI",
+        "qTrib": "90.0000",
+        "vUnTrib": "19.680111111",
+        "vFrete": "26.27",
+        "vSeg": "3.48",
+        "vOutro": "210.99",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "43",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "2526.90",
+            "pICMS": "17.00",
+            "vICMS": "429.57"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "1771.21",
+            "pIPI": "6.50",
+            "vIPI": "115.13"
+          }
+        },
+        "II": {
+          "vBC": "1771.21",
+          "vDespAdu": "2.87",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "1771.21",
+            "pPIS": "2.10",
+            "vPIS": "37.20"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "1771.21",
+            "pCOFINS": "9.65",
+            "vCOFINS": "170.92"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Encontro Folha Prime, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTES COM 10 TIRAS"
+    },
+    {
+      "-nItem": "44",
+      "prod": {
+        "cProd": "113435280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Encontro Folha Prime, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO COR",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "20.0000",
+        "vUnCom": "31.336000000",
+        "vProd": "626.72",
+        "uTrib": "UNI",
+        "qTrib": "20.0000",
+        "vUnTrib": "31.336000000",
+        "vFrete": "6.10",
+        "vSeg": "1.24",
+        "vOutro": "74.66",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "44",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "894.12",
+            "pICMS": "17.00",
+            "vICMS": "152.00"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "626.72",
+            "pIPI": "6.50",
+            "vIPI": "40.74"
+          }
+        },
+        "II": {
+          "vBC": "626.72",
+          "vDespAdu": "1.02",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "626.72",
+            "pPIS": "2.10",
+            "vPIS": "13.16"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "626.72",
+            "pCOFINS": "9.65",
+            "vCOFINS": "60.48"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Encontro Folha Prime, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS,  ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "45",
+      "prod": {
+        "cProd": "113445280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Encontro de Folhas Linha Jumbo, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMEN",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "10.0000",
+        "vUnCom": "45.515",
+        "vProd": "455.15",
+        "uTrib": "UNI",
+        "qTrib": "10.0000",
+        "vUnTrib": "45.515",
+        "vFrete": "3.93",
+        "vSeg": "0.90",
+        "vOutro": "54.22",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "45",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "649.34",
+            "pICMS": "17.00",
+            "vICMS": "110.39"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "455.15",
+            "pIPI": "6.50",
+            "vIPI": "29.58"
+          }
+        },
+        "II": {
+          "vBC": "455.15",
+          "vDespAdu": "0.74",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "455.15",
+            "pPIS": "2.10",
+            "vPIS": "9.56"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "455.15",
+            "pCOFINS": "9.65",
+            "vCOFINS": "43.92"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Encontro de Folhas Linha Jumbo, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS,  ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "46",
+      "prod": {
+        "cProd": "113451000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Encontro de Folhas Linha Prime, Gris Bronze,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO ",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "15.0000",
+        "vUnCom": "18.805999999",
+        "vProd": "282.09",
+        "uTrib": "UNI",
+        "qTrib": "15.0000",
+        "vUnTrib": "18.805999999",
+        "vFrete": "3.26",
+        "vSeg": "0.56",
+        "vOutro": "33.60",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "46",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "402.45",
+            "pICMS": "17.00",
+            "vICMS": "68.42"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "282.09",
+            "pIPI": "6.50",
+            "vIPI": "18.34"
+          }
+        },
+        "II": {
+          "vBC": "282.09",
+          "vDespAdu": "0.46",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "282.09",
+            "pPIS": "2.10",
+            "vPIS": "5.92"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "282.09",
+            "pCOFINS": "9.65",
+            "vCOFINS": "27.22"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Encontro de Folhas Linha Prime, Gris Bronze,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "47",
+      "prod": {
+        "cProd": "113455280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Encontro de Folhas Linha Prime, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMEN",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "5.0000",
+        "vUnCom": "30.316000000",
+        "vProd": "151.58",
+        "uTrib": "UNI",
+        "qTrib": "5.0000",
+        "vUnTrib": "30.316000000",
+        "vFrete": "1.17",
+        "vSeg": "0.30",
+        "vOutro": "18.06",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "47",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "216.25",
+            "pICMS": "17.00",
+            "vICMS": "36.76"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "151.58",
+            "pIPI": "6.50",
+            "vIPI": "9.85"
+          }
+        },
+        "II": {
+          "vBC": "151.58",
+          "vDespAdu": "0.25",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "151.58",
+            "pPIS": "2.10",
+            "vPIS": "3.18"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "151.58",
+            "pCOFINS": "9.65",
+            "vCOFINS": "14.63"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Encontro de Folhas Linha Prime, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS,  ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "48",
+      "prod": {
+        "cProd": "410061000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Contravidro 6.5mm, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "10.0000",
+        "vUnCom": "12.819999999",
+        "vProd": "128.20",
+        "uTrib": "UNI",
+        "qTrib": "10.0000",
+        "vUnTrib": "12.819999999",
+        "vFrete": "1.78",
+        "vSeg": "0.25",
+        "vOutro": "15.27",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "48",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "182.89",
+            "pICMS": "17.00",
+            "vICMS": "31.09"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "128.20",
+            "pIPI": "6.50",
+            "vIPI": "8.33"
+          }
+        },
+        "II": {
+          "vBC": "128.20",
+          "vDespAdu": "0.21",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "128.20",
+            "pPIS": "2.10",
+            "vPIS": "2.69"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "128.20",
+            "pCOFINS": "9.65",
+            "vCOFINS": "12.37"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Contravidro 6.5mm, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTE COM 10 TIRAS."
+    },
+    {
+      "-nItem": "49",
+      "prod": {
+        "cProd": "410065280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Contravidro 6.5mm, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE ",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "70.0000",
+        "vUnCom": "32.871142857",
+        "vProd": "2300.98",
+        "uTrib": "UNI",
+        "qTrib": "70.0000",
+        "vUnTrib": "32.871142857",
+        "vFrete": "13.36",
+        "vSeg": "4.57",
+        "vOutro": "274.12",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "49",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "3282.72",
+            "pICMS": "17.00",
+            "vICMS": "558.06"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "2300.98",
+            "pIPI": "6.50",
+            "vIPI": "149.56"
+          }
+        },
+        "II": {
+          "vBC": "2300.98",
+          "vDespAdu": "3.76",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "2300.98",
+            "pPIS": "2.10",
+            "vPIS": "48.32"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "2300.98",
+            "pCOFINS": "9.65",
+            "vCOFINS": "222.04"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Contravidro 6.5mm, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS,  ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "50",
+      "prod": {
+        "cProd": "410105280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Contravidro 10.5mm, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "10.0000",
+        "vUnCom": "44.443",
+        "vProd": "444.43",
+        "uTrib": "UNI",
+        "qTrib": "10.0000",
+        "vUnTrib": "44.443",
+        "vFrete": "2.19",
+        "vSeg": "0.88",
+        "vOutro": "52.95",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "50",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "634.06",
+            "pICMS": "17.00",
+            "vICMS": "107.79"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "444.43",
+            "pIPI": "6.50",
+            "vIPI": "28.89"
+          }
+        },
+        "II": {
+          "vBC": "444.43",
+          "vDespAdu": "0.73",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "444.43",
+            "pPIS": "2.10",
+            "vPIS": "9.33"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "444.43",
+            "pCOFINS": "9.65",
+            "vCOFINS": "42.89"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Contravidro 10.5mm, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "51",
+      "prod": {
+        "cProd": "410131000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Contravidro 13.5mm, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "60.0000",
+        "vUnCom": "16.781333333",
+        "vProd": "1006.88",
+        "uTrib": "UNI",
+        "qTrib": "60.0000",
+        "vUnTrib": "16.781333333",
+        "vFrete": "14.48",
+        "vSeg": "1.98",
+        "vOutro": "119.93",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "51",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "1436.46",
+            "pICMS": "17.00",
+            "vICMS": "244.20"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "1006.88",
+            "pIPI": "6.50",
+            "vIPI": "65.45"
+          }
+        },
+        "II": {
+          "vBC": "1006.88",
+          "vDespAdu": "1.63",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "1006.88",
+            "pPIS": "2.10",
+            "vPIS": "21.14"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "1006.88",
+            "pCOFINS": "9.65",
+            "vCOFINS": "97.16"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Contravidro 13.5mm, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "52",
+      "prod": {
+        "cProd": "410135280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Contravidro 13.5mm, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "10.0000",
+        "vUnCom": "39.87",
+        "vProd": "398.70",
+        "uTrib": "UNI",
+        "qTrib": "10.0000",
+        "vUnTrib": "39.87",
+        "vFrete": "2.44",
+        "vSeg": "0.79",
+        "vOutro": "47.49",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "52",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "568.81",
+            "pICMS": "17.00",
+            "vICMS": "96.70"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "398.70",
+            "pIPI": "6.50",
+            "vIPI": "25.92"
+          }
+        },
+        "II": {
+          "vBC": "398.70",
+          "vDespAdu": "0.65",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "398.70",
+            "pPIS": "2.10",
+            "vPIS": "8.37"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "398.70",
+            "pCOFINS": "9.65",
+            "vCOFINS": "38.47"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Contravidro 13.5mm, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS,  ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "53",
+      "prod": {
+        "cProd": "410181000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Contravidro 18.5mm, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "200.0000",
+        "vUnCom": "20.00575",
+        "vProd": "4001.15",
+        "uTrib": "UNI",
+        "qTrib": "200.0000",
+        "vUnTrib": "20.00575",
+        "vFrete": "53.54",
+        "vSeg": "7.88",
+        "vOutro": "476.62",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "53",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "5708.24",
+            "pICMS": "17.00",
+            "vICMS": "970.40"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "4001.15",
+            "pIPI": "6.50",
+            "vIPI": "260.07"
+          }
+        },
+        "II": {
+          "vBC": "4001.15",
+          "vDespAdu": "6.49",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "4001.15",
+            "pPIS": "2.10",
+            "vPIS": "84.02"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "4001.15",
+            "pCOFINS": "9.65",
+            "vCOFINS": "386.11"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Contravidro 18.5mm, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "54",
+      "prod": {
+        "cProd": "410185280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Contravidro 18.5mm, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "30.0000",
+        "vUnCom": "44.145666666",
+        "vProd": "1324.37",
+        "uTrib": "UNI",
+        "qTrib": "30.0000",
+        "vUnTrib": "44.145666666",
+        "vFrete": "8.16",
+        "vSeg": "2.63",
+        "vOutro": "157.77",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "54",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "1889.42",
+            "pICMS": "17.00",
+            "vICMS": "321.20"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "1324.37",
+            "pIPI": "6.50",
+            "vIPI": "86.08"
+          }
+        },
+        "II": {
+          "vBC": "1324.37",
+          "vDespAdu": "2.16",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "1324.37",
+            "pPIS": "2.10",
+            "vPIS": "27.81"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "1324.37",
+            "pCOFINS": "9.65",
+            "vCOFINS": "127.80"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Contravidro 18.5mm, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTES COM 10 TIRAS"
+    },
+    {
+      "-nItem": "55",
+      "prod": {
+        "cProd": "410281000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Contravidro 28.5mm, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "60.0000",
+        "vUnCom": "19.106833333",
+        "vProd": "1146.41",
+        "uTrib": "UNI",
+        "qTrib": "60.0000",
+        "vUnTrib": "19.106833333",
+        "vFrete": "19.09",
+        "vSeg": "2.25",
+        "vOutro": "136.55",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "55",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "1635.52",
+            "pICMS": "17.00",
+            "vICMS": "278.04"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "1146.41",
+            "pIPI": "6.50",
+            "vIPI": "74.52"
+          }
+        },
+        "II": {
+          "vBC": "1146.41",
+          "vDespAdu": "1.85",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "1146.41",
+            "pPIS": "2.10",
+            "vPIS": "24.07"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "1146.41",
+            "pCOFINS": "9.65",
+            "vCOFINS": "110.63"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Contravidro 28.5mm, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTES COM 10 TIRAS"
+    },
+    {
+      "-nItem": "56",
+      "prod": {
+        "cProd": "410285280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Contravidro 28.5mm, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "20.0000",
+        "vUnCom": "47.153",
+        "vProd": "943.06",
+        "uTrib": "UNI",
+        "qTrib": "20.0000",
+        "vUnTrib": "47.153",
+        "vFrete": "6.63",
+        "vSeg": "1.87",
+        "vOutro": "112.35",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "56",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "1345.43",
+            "pICMS": "17.00",
+            "vICMS": "228.72"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "943.06",
+            "pIPI": "6.50",
+            "vIPI": "61.30"
+          }
+        },
+        "II": {
+          "vBC": "943.06",
+          "vDespAdu": "1.54",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "943.06",
+            "pPIS": "2.10",
+            "vPIS": "19.80"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "943.06",
+            "pCOFINS": "9.65",
+            "vCOFINS": "91.01"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Contravidro 28.5mm, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS,  ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "57",
+      "prod": {
+        "cProd": "410321000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Contravidro 32.5mm, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "40.0000",
+        "vUnCom": "20.73",
+        "vProd": "829.20",
+        "uTrib": "UNI",
+        "qTrib": "40.0000",
+        "vUnTrib": "20.73",
+        "vFrete": "13.69",
+        "vSeg": "1.63",
+        "vOutro": "98.77",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "57",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "1182.98",
+            "pICMS": "17.00",
+            "vICMS": "201.11"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "829.20",
+            "pIPI": "6.50",
+            "vIPI": "53.90"
+          }
+        },
+        "II": {
+          "vBC": "829.20",
+          "vDespAdu": "1.34",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "829.20",
+            "pPIS": "2.10",
+            "vPIS": "17.41"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "829.20",
+            "pCOFINS": "9.65",
+            "vCOFINS": "80.02"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Contravidro 32.5mm, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "58",
+      "prod": {
+        "cProd": "410325280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Contravidro 32.5mm, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "10.0000",
+        "vUnCom": "52.129",
+        "vProd": "521.29",
+        "uTrib": "UNI",
+        "qTrib": "10.0000",
+        "vUnTrib": "52.129",
+        "vFrete": "3.60",
+        "vSeg": "1.03",
+        "vOutro": "62.10",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "58",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "743.70",
+            "pICMS": "17.00",
+            "vICMS": "126.43"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "521.29",
+            "pIPI": "6.50",
+            "vIPI": "33.88"
+          }
+        },
+        "II": {
+          "vBC": "521.29",
+          "vDespAdu": "0.85",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "521.29",
+            "pPIS": "2.10",
+            "vPIS": "10.95"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "521.29",
+            "pCOFINS": "9.65",
+            "vCOFINS": "50.30"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Contravidro 32.5mm, Jet Black M. Negra,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRAS"
+    },
+    {
+      "-nItem": "59",
+      "prod": {
+        "cProd": "610255280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha Porta Ecolife, Jet Black, OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVER",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "1.0000",
+        "vUnCom": "138.71",
+        "vProd": "138.71",
+        "uTrib": "UNI",
+        "qTrib": "1.0000",
+        "vUnTrib": "138.71",
+        "vFrete": "1.14",
+        "vSeg": "0.27",
+        "vOutro": "16.53",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "59",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "197.90",
+            "pICMS": "17.00",
+            "vICMS": "33.64"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "138.71",
+            "pIPI": "6.50",
+            "vIPI": "9.02"
+          }
+        },
+        "II": {
+          "vBC": "138.71",
+          "vDespAdu": "0.23",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "138.71",
+            "pPIS": "2.10",
+            "vPIS": "2.91"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "138.71",
+            "pCOFINS": "9.65",
+            "vCOFINS": "13.39"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha Porta Ecolife, Jet Black, OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "60",
+      "prod": {
+        "cProd": "610261000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Folha de Giro Abertura Exterior Ecolife, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "30.0000",
+        "vUnCom": "74.639",
+        "vProd": "2239.17",
+        "uTrib": "UNI",
+        "qTrib": "30.0000",
+        "vUnTrib": "74.639",
+        "vFrete": "31.01",
+        "vSeg": "4.41",
+        "vOutro": "266.73",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "60",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "3194.52",
+            "pICMS": "17.00",
+            "vICMS": "543.07"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "2239.17",
+            "pIPI": "6.50",
+            "vIPI": "145.55"
+          }
+        },
+        "II": {
+          "vBC": "2239.17",
+          "vDespAdu": "3.63",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "2239.17",
+            "pPIS": "2.10",
+            "vPIS": "47.02"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "2239.17",
+            "pCOFINS": "9.65",
+            "vCOFINS": "216.08"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Folha de Giro Abertura Exterior Ecolife, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "61",
+      "prod": {
+        "cProd": "612255280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Marco de Giro Ecolife, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANS",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "1.0000",
+        "vUnCom": "98.69",
+        "vProd": "98.69",
+        "uTrib": "UNI",
+        "qTrib": "1.0000",
+        "vUnTrib": "98.69",
+        "vFrete": "0.84",
+        "vSeg": "0.20",
+        "vOutro": "11.75",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "61",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "140.78",
+            "pICMS": "17.00",
+            "vICMS": "23.93"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "98.69",
+            "pIPI": "6.50",
+            "vIPI": "6.41"
+          }
+        },
+        "II": {
+          "vBC": "98.69",
+          "vDespAdu": "0.16",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "98.69",
+            "pPIS": "2.10",
+            "vPIS": "2.07"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "98.69",
+            "pCOFINS": "9.65",
+            "vCOFINS": "9.52"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Marco de Giro Ecolife, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS,  ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "62",
+      "prod": {
+        "cProd": "913060280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Remate Interior 60mm, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSV",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "70.0000",
+        "vUnCom": "89.997857142",
+        "vProd": "6299.85",
+        "uTrib": "UNI",
+        "qTrib": "70.0000",
+        "vUnTrib": "89.997857142",
+        "vFrete": "31.64",
+        "vSeg": "12.51",
+        "vOutro": "750.55",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "62",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "8987.82",
+            "pICMS": "17.00",
+            "vICMS": "1527.93"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "6299.85",
+            "pIPI": "6.50",
+            "vIPI": "409.49"
+          }
+        },
+        "II": {
+          "vBC": "6299.85",
+          "vDespAdu": "10.31",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "6299.85",
+            "pPIS": "2.10",
+            "vPIS": "132.30"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "6299.85",
+            "pCOFINS": "9.65",
+            "vCOFINS": "607.94"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Remate Interior 60mm, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "63",
+      "prod": {
+        "cProd": "913061000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Remate Interior 60mm, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERS",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "200.0000",
+        "vUnCom": "33.1883",
+        "vProd": "6637.66",
+        "uTrib": "UNI",
+        "qTrib": "200.0000",
+        "vUnTrib": "33.1883",
+        "vFrete": "81.63",
+        "vSeg": "13.09",
+        "vOutro": "790.70",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "63",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "9469.65",
+            "pICMS": "17.00",
+            "vICMS": "1609.84"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "6637.66",
+            "pIPI": "6.50",
+            "vIPI": "431.45"
+          }
+        },
+        "II": {
+          "vBC": "6637.66",
+          "vDespAdu": "10.78",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "6637.66",
+            "pPIS": "2.10",
+            "vPIS": "139.39"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "6637.66",
+            "pCOFINS": "9.65",
+            "vCOFINS": "640.53"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Remate Interior 60mm, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTES COM 10 TIRAS"
+    },
+    {
+      "-nItem": "64",
+      "prod": {
+        "cProd": "913081000",
+        "cEAN": {},
+        "xProd": "Perfil de PVC Celosia Cega, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL EN",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "10.0000",
+        "vUnCom": "15.008000000",
+        "vProd": "150.08",
+        "uTrib": "UNI",
+        "qTrib": "10.0000",
+        "vUnTrib": "15.008000000",
+        "vFrete": "1.67",
+        "vSeg": "0.30",
+        "vOutro": "17.87",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "64",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "214.11",
+            "pICMS": "17.00",
+            "vICMS": "36.40"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "150.08",
+            "pIPI": "6.50",
+            "vIPI": "9.76"
+          }
+        },
+        "II": {
+          "vBC": "150.08",
+          "vDespAdu": "0.24",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "150.08",
+            "pPIS": "2.10",
+            "vPIS": "3.15"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "150.08",
+            "pCOFINS": "9.65",
+            "vCOFINS": "14.48"
+          }
+        }
+      },
+      "infAdProd": "Perfil de PVC Celosia Cega, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS,  ARMAZENADO EM PACOTES COM 10 TIRAS"
+    },
+    {
+      "-nItem": "65",
+      "prod": {
+        "cProd": "913131000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Acople 25x28, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "5.0000",
+        "vUnCom": "35.414",
+        "vProd": "177.07",
+        "uTrib": "UNI",
+        "qTrib": "5.0000",
+        "vUnTrib": "35.414",
+        "vFrete": "2.68",
+        "vSeg": "0.35",
+        "vOutro": "21.10",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "65",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "252.63",
+            "pICMS": "17.00",
+            "vICMS": "42.95"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "177.07",
+            "pIPI": "6.50",
+            "vIPI": "11.51"
+          }
+        },
+        "II": {
+          "vBC": "177.07",
+          "vDespAdu": "0.29",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "177.07",
+            "pPIS": "2.10",
+            "vPIS": "3.72"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "177.07",
+            "pCOFINS": "9.65",
+            "vCOFINS": "17.09"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Acople 25x28, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTE COM 2 TIRAS"
+    },
+    {
+      "-nItem": "66",
+      "prod": {
+        "cProd": "913155000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Tapa Canal Ferragem DC, Preto,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVER",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "10.0000",
+        "vUnCom": "4.387",
+        "vProd": "43.87",
+        "uTrib": "UNI",
+        "qTrib": "10.0000",
+        "vUnTrib": "4.387",
+        "vFrete": "0.90",
+        "vSeg": "0.09",
+        "vOutro": "5.22",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "66",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "62.58",
+            "pICMS": "17.00",
+            "vICMS": "10.64"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "43.87",
+            "pIPI": "6.50",
+            "vIPI": "2.85"
+          }
+        },
+        "II": {
+          "vBC": "43.87",
+          "vDespAdu": "0.07",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "43.87",
+            "pPIS": "2.10",
+            "vPIS": "0.92"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "43.87",
+            "pCOFINS": "9.65",
+            "vCOFINS": "4.23"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Tapa Canal Ferragem DC, Preto,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS,  ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "67",
+      "prod": {
+        "cProd": "913161000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Remate Int/Ext 15x15, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERS",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "10.0000",
+        "vUnCom": "10.059000000",
+        "vProd": "100.59",
+        "uTrib": "UNI",
+        "qTrib": "10.0000",
+        "vUnTrib": "10.059000000",
+        "vFrete": "1.65",
+        "vSeg": "0.20",
+        "vOutro": "11.98",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "67",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "143.51",
+            "pICMS": "17.00",
+            "vICMS": "24.40"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "100.59",
+            "pIPI": "6.50",
+            "vIPI": "6.54"
+          }
+        },
+        "II": {
+          "vBC": "100.59",
+          "vDespAdu": "0.16",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "100.59",
+            "pPIS": "2.10",
+            "vPIS": "2.11"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "100.59",
+            "pCOFINS": "9.65",
+            "vCOFINS": "9.71"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Remate Int/Ext 15x15, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTES COM 10 TIRAS"
+    },
+    {
+      "-nItem": "68",
+      "prod": {
+        "cProd": "913321000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Contramarco 3x25mm, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "20.0000",
+        "vUnCom": "9.634",
+        "vProd": "192.68",
+        "uTrib": "UNI",
+        "qTrib": "20.0000",
+        "vUnTrib": "9.634",
+        "vFrete": "1.80",
+        "vSeg": "0.38",
+        "vOutro": "22.95",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "68",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "274.88",
+            "pICMS": "17.00",
+            "vICMS": "46.73"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "192.68",
+            "pIPI": "6.50",
+            "vIPI": "12.52"
+          }
+        },
+        "II": {
+          "vBC": "192.68",
+          "vDespAdu": "0.31",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "192.68",
+            "pPIS": "2.10",
+            "vPIS": "4.05"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "192.68",
+            "pCOFINS": "9.65",
+            "vCOFINS": "18.59"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Contramarco 3x25mm, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTE COM 10 TIRA"
+    },
+    {
+      "-nItem": "69",
+      "prod": {
+        "cProd": "913370280",
+        "cEAN": {},
+        "xProd": "Perfil PVC Esquina 58x58, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL E",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "3.0000",
+        "vUnCom": "168.42666666",
+        "vProd": "505.28",
+        "uTrib": "UNI",
+        "qTrib": "3.0000",
+        "vUnTrib": "168.42666666",
+        "vFrete": "4.58",
+        "vSeg": "1.00",
+        "vOutro": "60.19",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "69",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "720.86",
+            "pICMS": "17.00",
+            "vICMS": "122.55"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "505.28",
+            "pIPI": "6.50",
+            "vIPI": "32.84"
+          }
+        },
+        "II": {
+          "vBC": "505.28",
+          "vDespAdu": "0.82",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "505.28",
+            "pPIS": "2.10",
+            "vPIS": "10.61"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "505.28",
+            "pCOFINS": "9.65",
+            "vCOFINS": "48.76"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Esquina 58x58, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTES TIRAS"
+    },
+    {
+      "-nItem": "70",
+      "prod": {
+        "cProd": "913371000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Esquina 58x58, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTR",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "5.0000",
+        "vUnCom": "87.632",
+        "vProd": "438.16",
+        "uTrib": "UNI",
+        "qTrib": "5.0000",
+        "vUnTrib": "87.632",
+        "vFrete": "6.92",
+        "vSeg": "0.86",
+        "vOutro": "52.19",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "70",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "625.10",
+            "pICMS": "17.00",
+            "vICMS": "106.27"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "438.16",
+            "pIPI": "6.50",
+            "vIPI": "28.48"
+          }
+        },
+        "II": {
+          "vBC": "438.16",
+          "vDespAdu": "0.71",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "438.16",
+            "pPIS": "2.10",
+            "vPIS": "9.20"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "438.16",
+            "pCOFINS": "9.65",
+            "vCOFINS": "42.28"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Esquina 58x58, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRAS             Geral     Formatação Condicional  Estilos de Célula"
+    },
+    {
+      "-nItem": "71",
+      "prod": {
+        "cProd": "913411000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Coluna 38x38, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "5.0000",
+        "vUnCom": "7.7680000000",
+        "vProd": "38.84",
+        "uTrib": "UNI",
+        "qTrib": "5.0000",
+        "vUnTrib": "7.7680000000",
+        "vFrete": "2.61",
+        "vSeg": "0.07",
+        "vOutro": "4.63",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "71",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "55.41",
+            "pICMS": "17.00",
+            "vICMS": "9.42"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "38.84",
+            "pIPI": "6.50",
+            "vIPI": "2.52"
+          }
+        },
+        "II": {
+          "vBC": "38.84",
+          "vDespAdu": "0.06",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "38.84",
+            "pPIS": "2.10",
+            "vPIS": "0.82"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "38.84",
+            "pCOFINS": "9.65",
+            "vCOFINS": "3.75"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Coluna 38x38, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "72",
+      "prod": {
+        "cProd": "913421000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Coluna 38x76, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "10.0000",
+        "vUnCom": "11.783",
+        "vProd": "117.83",
+        "uTrib": "UNI",
+        "qTrib": "10.0000",
+        "vUnTrib": "11.783",
+        "vFrete": "7.90",
+        "vSeg": "0.22",
+        "vOutro": "14.02",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "72",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "168.08",
+            "pICMS": "17.00",
+            "vICMS": "28.57"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "117.83",
+            "pIPI": "6.50",
+            "vIPI": "7.66"
+          }
+        },
+        "II": {
+          "vBC": "117.83",
+          "vDespAdu": "0.18",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "117.83",
+            "pPIS": "2.10",
+            "vPIS": "2.47"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "117.83",
+            "pCOFINS": "9.65",
+            "vCOFINS": "11.37"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Coluna 38x76, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM TIRA"
+    },
+    {
+      "-nItem": "73",
+      "prod": {
+        "cProd": "913450000",
+        "cEAN": {},
+        "xProd": "Perfil PVC Uniao Oculta de Marco, Natural,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVE",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "10.0000",
+        "vUnCom": "11.283",
+        "vProd": "112.83",
+        "uTrib": "UNI",
+        "qTrib": "10.0000",
+        "vUnTrib": "11.283",
+        "vFrete": "0.90",
+        "vSeg": "0.22",
+        "vOutro": "13.44",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "73",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "160.96",
+            "pICMS": "17.00",
+            "vICMS": "27.36"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "112.83",
+            "pIPI": "6.50",
+            "vIPI": "7.33"
+          }
+        },
+        "II": {
+          "vBC": "112.83",
+          "vDespAdu": "0.18",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "112.83",
+            "pPIS": "2.10",
+            "vPIS": "2.37"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "112.83",
+            "pCOFINS": "9.65",
+            "vCOFINS": "10.89"
+          }
+        }
+      },
+      "infAdProd": "Perfil PVC Uniao Oculta de Marco, Natural,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTE COM 10 TIRAS"
+    },
+    {
+      "-nItem": "74",
+      "prod": {
+        "cProd": "913085280T",
+        "cEAN": {},
+        "xProd": "Perfil de PVC Celosia Ventilada, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSV",
+        "NCM": "39162000",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "50.0000",
+        "vUnCom": "40.929",
+        "vProd": "2046.45",
+        "uTrib": "UNI",
+        "qTrib": "50.0000",
+        "vUnTrib": "40.929",
+        "vFrete": "10.19",
+        "vSeg": "4.06",
+        "vOutro": "243.86",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "1",
+            "nSeqAdic": "74",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "2919.66",
+            "pICMS": "17.00",
+            "vICMS": "496.34"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "2046.45",
+            "pIPI": "6.50",
+            "vIPI": "133.01"
+          }
+        },
+        "II": {
+          "vBC": "2046.45",
+          "vDespAdu": "3.35",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "2046.45",
+            "pPIS": "2.10",
+            "vPIS": "43.01"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "2046.45",
+            "pCOFINS": "9.65",
+            "vCOFINS": "197.50"
+          }
+        }
+      },
+      "infAdProd": "Perfil de PVC Celosia Ventilada, Jet Black,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS, ARMAZENADO EM PACOTES COM 10 TIRAS"
+    },
+    {
+      "-nItem": "75",
+      "prod": {
+        "cProd": "145105000",
+        "cEAN": {},
+        "xProd": "Corta Vento PVC Marco DZ, Gris Grafito,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSA",
+        "NCM": "39259090",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "80.0000",
+        "vUnCom": "3.799875",
+        "vProd": "303.99",
+        "uTrib": "UNI",
+        "qTrib": "80.0000",
+        "vUnTrib": "3.799875",
+        "vFrete": "0.18",
+        "vSeg": "0.61",
+        "vOutro": "36.22",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "2",
+            "nSeqAdic": "1",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "421.80",
+            "pICMS": "17.00",
+            "vICMS": "71.71"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "303.99",
+            "pIPI": "3.25",
+            "vIPI": "9.88"
+          }
+        },
+        "II": {
+          "vBC": "303.99",
+          "vDespAdu": "0.50",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "303.99",
+            "pPIS": "2.10",
+            "vPIS": "6.38"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "303.99",
+            "pCOFINS": "9.65",
+            "vCOFINS": "29.34"
+          }
+        }
+      },
+      "infAdProd": "Corta Vento PVC Marco DZ, Gris Grafito,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS.ARMAZENADO EM PACOTE COM 20 TIRAS"
+    },
+    {
+      "-nItem": "76",
+      "prod": {
+        "cProd": "145165000",
+        "cEAN": {},
+        "xProd": "Corta Vento de PVC Exterior Linha Jumbo, Preto,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TR",
+        "NCM": "39259090",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "20.0000",
+        "vUnCom": "7.3995000000",
+        "vProd": "147.99",
+        "uTrib": "UNI",
+        "qTrib": "20.0000",
+        "vUnTrib": "7.3995000000",
+        "vFrete": "0.08",
+        "vSeg": "0.29",
+        "vOutro": "17.63",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "2",
+            "nSeqAdic": "2",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "205.34",
+            "pICMS": "17.00",
+            "vICMS": "34.91"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "147.99",
+            "pIPI": "3.25",
+            "vIPI": "4.81"
+          }
+        },
+        "II": {
+          "vBC": "147.99",
+          "vDespAdu": "0.24",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "147.99",
+            "pPIS": "2.10",
+            "vPIS": "3.11"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "147.99",
+            "pCOFINS": "9.65",
+            "vCOFINS": "14.28"
+          }
+        }
+      },
+      "infAdProd": "Corta Vento de PVC Exterior Linha Jumbo, Preto,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS.ARMAZENADO EM PACOTE COM 20 TIRAS"
+    },
+    {
+      "-nItem": "77",
+      "prod": {
+        "cProd": "145185000",
+        "cEAN": {},
+        "xProd": "Tapa de PVC Guia Adicional Linha Jumbo, Preto,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRA",
+        "NCM": "39259090",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "10.0000",
+        "vUnCom": "1.3",
+        "vProd": "13.00",
+        "uTrib": "UNI",
+        "qTrib": "10.0000",
+        "vUnTrib": "1.3",
+        "vFrete": "0.01",
+        "vSeg": "0.03",
+        "vOutro": "1.54",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "2",
+            "nSeqAdic": "3",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "18.02",
+            "pICMS": "17.00",
+            "vICMS": "3.06"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "13.00",
+            "pIPI": "3.25",
+            "vIPI": "0.42"
+          }
+        },
+        "II": {
+          "vBC": "13.00",
+          "vDespAdu": "0.02",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "13.00",
+            "pPIS": "2.10",
+            "vPIS": "0.27"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "13.00",
+            "pCOFINS": "9.65",
+            "vCOFINS": "1.25"
+          }
+        }
+      },
+      "infAdProd": "Tapa de PVC Guia Adicional Linha Jumbo, Preto,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS.ARMAZENADO EM PACOTEs COM 10  TIRAS"
+    },
+    {
+      "-nItem": "78",
+      "prod": {
+        "cProd": "145235000",
+        "cEAN": {},
+        "xProd": "Tope PVC, Negro,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILI",
+        "NCM": "39259090",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "150.0000",
+        "vUnCom": "1.1497333333",
+        "vProd": "172.46",
+        "uTrib": "UNI",
+        "qTrib": "150.0000",
+        "vUnTrib": "1.1497333333",
+        "vFrete": "0.07",
+        "vSeg": "0.34",
+        "vOutro": "20.55",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "2",
+            "nSeqAdic": "4",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "239.30",
+            "pICMS": "17.00",
+            "vICMS": "40.68"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "00",
+            "vBC": "172.46",
+            "pIPI": "3.25",
+            "vIPI": "5.61"
+          }
+        },
+        "II": {
+          "vBC": "172.46",
+          "vDespAdu": "0.28",
+          "vII": "0.00",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "172.46",
+            "pPIS": "2.10",
+            "vPIS": "3.63"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "172.46",
+            "pCOFINS": "9.65",
+            "vCOFINS": "16.64"
+          }
+        }
+      },
+      "infAdProd": "Tope PVC, Negro,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS.ARMAZENADO EM PACOTES COM 50 TIRAS"
+    },
+    {
+      "-nItem": "79",
+      "prod": {
+        "cProd": "145070000",
+        "cEAN": {},
+        "xProd": "Esquadra de Travessa DC 58 de Zinco, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANS",
+        "NCM": "79070090",
+        "CFOP": "3101",
+        "uCom": "UNI",
+        "qCom": "40.0000",
+        "vUnCom": "11.91575",
+        "vProd": "476.63",
+        "uTrib": "UNI",
+        "qTrib": "40.0000",
+        "vUnTrib": "11.91575",
+        "vFrete": "0.92",
+        "vSeg": "0.95",
+        "vOutro": "56.80",
+        "indTot": "1",
+        "DI": {
+          "nDI": "2406559431",
+          "dDI": "2024-03-27",
+          "xLocDesemb": "URUGUAIANA",
+          "UFDesemb": "RS",
+          "dDesemb": "2024-03-27",
+          "tpViaTransp": "7",
+          "vAFRMM": "0.00",
+          "tpIntermedio": "1",
+          "cExportador": "TECNOPERFILES S.A",
+          "adi": {
+            "nAdicao": "3",
+            "nSeqAdic": "1",
+            "cFabricante": "00000"
+          }
+        }
+      },
+      "imposto": {
+        "ICMS": {
+          "ICMS00": {
+            "orig": "1",
+            "CST": "00",
+            "modBC": "3",
+            "vBC": "725.37",
+            "pICMS": "17.00",
+            "vICMS": "123.31"
+          }
+        },
+        "IPI": {
+          "cEnq": "104",
+          "IPITrib": {
+            "CST": "01",
+            "vBC": "0.00",
+            "pIPI": "0.00",
+            "vIPI": "0.00"
+          }
+        },
+        "II": {
+          "vBC": "476.63",
+          "vDespAdu": "0.80",
+          "vII": "68.63",
+          "vIOF": "0.00"
+        },
+        "PIS": {
+          "PISAliq": {
+            "CST": "56",
+            "vBC": "476.63",
+            "pPIS": "2.10",
+            "vPIS": "10.01"
+          }
+        },
+        "COFINS": {
+          "COFINSAliq": {
+            "CST": "56",
+            "vBC": "476.63",
+            "pCOFINS": "9.65",
+            "vCOFINS": "45.99"
+          }
+        }
+      },
+      "infAdProd": "Esquadra de Travessa DC 58 de Zinco, Branco,  OBTIDO POR INJEÇÃO, MODO DE JUNÇÃO POR TERMOFUSÃO, DIMENSÃO DO CORTE TRANSVERSAL ENTRE 1 E 5 mm, UTILIZADO PARA A FABRICAÇÃO DE ESQUADRIAS DE PVC, DESTINADO A VEDAÇÃO DE PORTAS E JANELAS.ARMAZENADO EM PACOTE COM 20 TIRAS"
+    }
+  ]
+}
