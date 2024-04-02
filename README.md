@@ -2,8 +2,10 @@
 ## Biblioteca pyautogui [Documentação](https://pyautogui.readthedocs.io/en/latest/index.html)
 
 ## Instalação
-### pip install pyautogui
-### pip install jsons
+
+pip install pyautogui
+
+pip install jsons
 
 
 ## Descrição
